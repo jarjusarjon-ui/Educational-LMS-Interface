@@ -1,0 +1,6 @@
+{
+  "name": "University of The Gambia Student LMS",
+  "description": "A comprehensive, highly polished student learning management system for the University of The Gambia (UTG). Access courses, attend live lectures, submit assignments, take online exams, manage tuition, track GPA, and communicate with lecturers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
